@@ -8,7 +8,7 @@ The dataset contains:
 
 12 columns
 | Column name   | Type          | Description  |
-| ------------- |:-------------:| ------------:|
+| ------------- |:-------------:| :------------|
 | label         | obj           |Binary target variable (“retained” vs “churned”) for if a user has churned anytime during the course of the month |
 | sessions | int |The number of occurrence of a user opening the app during the month |
 |drives | int | An occurrence of driving at least 1 km during the month |
