@@ -1,6 +1,6 @@
 # EDA_Activity_GoogleAdvanced
  Exploratory data analysis (EDA) and further data visualization project from Course 3 of Google Advanced Data Analytics.
-This project uses a dataset called waze_dataset.csv. It contains synthetic data created for this project in partnership with Waze. Examine each data variable gathered. 
+This project uses a dataset called waze_dataset.csv. It contains synthetic data created for this project in partnership with Waze. 
 
 The dataset contains:
 
