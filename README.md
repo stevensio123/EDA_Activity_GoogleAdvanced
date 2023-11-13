@@ -1,4 +1,4 @@
-# EDA_Activity_GoogleAdvanced
+# Exploratory Data Analysis Project from Google Advanced Data Analytics
  Exploratory data analysis (EDA) and further data visualization project from Course 3 of Google Advanced Data Analytics.
 This project uses a dataset called waze_dataset.csv. It contains synthetic data created for this project in partnership with Waze. 
 
